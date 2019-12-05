@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cloudCustomer/cloudCustomer.iml" filepath="$PROJECT_DIR$/../cloudCustomer/cloudCustomer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cloudDemo2Comment/cloudDemo2Comment.iml" filepath="$PROJECT_DIR$/../cloudDemo2Comment/cloudDemo2Comment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cloudDemo2Customer/cloudDemo2Customer.iml" filepath="$PROJECT_DIR$/../cloudDemo2Customer/cloudDemo2Customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cloudDemo2Provider/cloudDemo2Provider.iml" filepath="$PROJECT_DIR$/../cloudDemo2Provider/cloudDemo2Provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudEureka.iml" filepath="$PROJECT_DIR$/cloudEureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cloudFeignCustomer/cloudFeignCustomer.iml" filepath="$PROJECT_DIR$/../cloudFeignCustomer/cloudFeignCustomer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cloudProvider/cloudProvider.iml" filepath="$PROJECT_DIR$/../cloudProvider/cloudProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../couldZuul/couldZuul.iml" filepath="$PROJECT_DIR$/../couldZuul/couldZuul.iml" />
+    </modules>
+  </component>
+</project>
